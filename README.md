@@ -1,13 +1,17 @@
 # USA-Ultrathon-Analysis
 
-This repository contains an in-depth analysis of Ultrathon data in the United States. By exploring trends, patterns, and insights from extensive endurance running datasets, it aims to provide valuable perspectives on participant demographics, performance metrics, geographical distributions, and more.
+Ultrathon Data Analysis USA
+Overview
+This repository contains a comprehensive analysis of Ultrathon data in the United States. It explores trends, patterns, and insights from endurance running datasets to understand participant demographics, performance metrics, geographical distributions, and more.
 
-Key Features:
+Project Features
+*🧹 Data Cleaning and Preprocessing: Handling missing data, outliers, and formatting issues.
+*📊 Exploratory Data Analysis (EDA): Visualizing key patterns and trends.
+*📈 Statistical and Predictive Modeling: Analyzing performance trends and predicting outcomes.
+*📌 Geographical Analysis: Mapping Ultrathon participation and performance across the USA.
+*🌐 Interactive Dashboards: Tools for deeper engagement with the data.
 
-Data cleaning, preprocessing, and visualization.
-Exploratory Data Analysis (EDA) to uncover key insights.
-Statistical and predictive modeling to analyze performance trends.
-Interactive dashboards and visual tools for deeper understanding.
-Whether you're an athlete, data enthusiast, or endurance sports researcher, this project offers a comprehensive look at what drives ultramarathon performances across the USA.
-
-Feel free to contribute, explore the analysis, and share feedback!
+Technologies Used
+*Languages: Python (e.g., pandas, NumPy, matplotlib, seaborn, Plotly).
+*Tools: Jupyter Notebooks, Tableau/Power BI (for dashboards).
+*Libraries: scikit-learn, geopandas, statsmodels.
