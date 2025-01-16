@@ -8,14 +8,12 @@ This repository contains a comprehensive analysis of Ultrathon data in the Unite
 
 - 🧹 Data Cleaning and Preprocessing: Handling missing data, outliers, and formatting issues.
 - 📊 Exploratory Data Analysis (EDA): Visualizing key patterns and trends.
-- 📈 Statistical and Predictive Modeling: Analyzing performance trends and predicting outcomes.
+- 📈 Statistical and Predictive Modeling: Analyzing performance trends.
 - 📌 Geographical Analysis: Mapping Ultrathon participation and performance across the USA.
-- 🌐 Interactive Dashboards: Tools for deeper engagement with the data.
 
 Technologies Used
-* Languages: Python (e.g., pandas, NumPy, matplotlib, seaborn, Plotly).
-* Tools: Jupyter Notebooks, Tableau/Power BI (for dashboards).
-* Libraries: scikit-learn, geopandas, statsmodels.
+* Languages: Python (Pandas,seaborn).
+* Tools: Jupyter Notebooks.
 
 ## View the Notebook
 - [Rendered Notebook on nbviewer](https://nbviewer.org/github/Krasper707/USA-Ultrathon-Analysis/blob/main/analysis_of_ultrathon_data_of_usa_ipynb%20%281%29.ipynb)
